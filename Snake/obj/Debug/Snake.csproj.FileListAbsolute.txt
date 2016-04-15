@@ -1,0 +1,6 @@
+F:\Ом\Программирование\Веб-Разработчик\ООП\OOP\Snake\Snake\bin\Debug\Snake.exe.config
+F:\Ом\Программирование\Веб-Разработчик\ООП\OOP\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+F:\Ом\Программирование\Веб-Разработчик\ООП\OOP\Snake\Snake\bin\Debug\Snake.exe
+F:\Ом\Программирование\Веб-Разработчик\ООП\OOP\Snake\Snake\bin\Debug\Snake.pdb
+F:\Ом\Программирование\Веб-Разработчик\ООП\OOP\Snake\Snake\obj\Debug\Snake.exe
+F:\Ом\Программирование\Веб-Разработчик\ООП\OOP\Snake\Snake\obj\Debug\Snake.pdb
